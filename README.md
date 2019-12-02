@@ -6,7 +6,7 @@
 
 **Метрика :** Мультиклассовый логлосс
 
-**Решение :** [ноутбук с решением]()
+**Решение :** [ноутбук с решением](https://nbviewer.jupyter.org/github/IgorDenisenko/Consumer_basket_analysis/blob/master/008_Denisenko_Igor%28final%29.ipynb)
 
 **Результат :** 8 место из 28 участников
 
